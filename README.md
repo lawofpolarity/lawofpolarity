@@ -23,7 +23,7 @@ Initiatives that seek to harmonize technological advancements with sustainable s
 
 Feel free to drop a message here on GitHub or reach out via email at [insert email here] for collaborations, discussions, or any inquiries related to Lightmathematics.
 
-😄 Pronouns: They/Them
+😄 Pronouns: Amazing/King/Master/Student
 
 ⚡ Fun fact:
 
