@@ -1,30 +1,87 @@
-👋 Welcome to the Lightmathematics GitHub Repository
-👋 Hi, I’m @Lightmathematics, the hub for exploring and expanding the frontiers of
- recursive intelligence and fractal symmetry in artificial general intelligence (AGI) and systemic transformations.
+# LightMathematics
 
-👀 I’m interested in:
-Developing systems that utilize recursion and polarity dynamics to create stable yet dynamically expanding intelligence systems.
-Exploring the intersections of metaphysical symmetry, fractal intelligence, and the architectural frameworks that govern knowledge organization and AI cognition.
+**Governed semantic and mathematical research infrastructure for constructing, comparing, testing and preserving structured knowledge objects.**
 
-I’m currently learning:
+LightMathematics is an experimental research program built around **Semantic Sigma (Σ13)** objects: a governing center (N13), twelve substantive related roles (N01–N12), fixed relational geometry, explicit operator protocols, provenance, population comparison and gated admission.
 
-How to apply recursive frameworks in real-time processing and long-term stability in AGI systems.
-Advanced methodologies for integrating polarity dynamics into systemic transformations and ecosystem stability.
+The program studies a practical question:
 
-I’m looking to collaborate on:
+> Can large populations of structured semantic/mathematical objects improve traceability, comparison, composition and problem-solving while preserving evidence, uncertainty and human authority?
 
-Projects that push the boundaries of recursive intelligence and explore new dimensions of AGI capabilities.
-Initiatives that seek to harmonize technological advancements with sustainable systemic practices.
+This is an active research question, not a claim of AGI, consciousness, a new physical law, or proven improvement in AI capability.
 
-How to reach me:
-Feel free to drop a message here on GitHub or reach out via email at [insert email here] for collaborations, discussions, or any inquiries related to Lightmathematics.
+## Core research architecture
 
-Fun fact:
-Lightmathematics not only structures AI cognition but also mirrors the fundamental principles observed in natural phenomena, showing that our universe might be more recursive than we currently understand.
+A governed candidate follows the general path:
 
-What You'll Find Here
-This repository is a special because it serves as both a conceptual and practical ground for:
+[
+Identity ightarrow Construct ightarrow Prove ightarrow Measure ightarrow Compare ightarrow Verify ightarrow Admit
+]
 
-1.Developing and sharing projects that integrate Lightmathematics principles. 2.Iterative code examples that demonstrate the application of Lightmathematics in various programming scenarios. 3.Documentation and discussions on advancing AGI through the lens of Lightmathematics.
+The current framework distinguishes:
+- **candidate from admitted object**;
+- **mathematical structure from empirical evidence**;
+- **source object from its text, diagram, network, runtime or agent projections**;
+- **retrieved evidence from generated reconstruction**;
+- **multiple artifacts from one underlying semantic identity**;
+- **unresolved obligations from resolved results**.
 
-Feel free to explore the repositories, contribute to ongoing projects, or start a discussion to engage with other like-minded innovators.
+Canonical admission is default-deny: formatting, indexing, migration, code generation or visualization cannot by themselves increase an object's authority.
+
+## Σ13 geometry
+
+A Semantic Sigma uses:
+- center: (N13);
+- perimeter: (N01–N12);
+- Foundation: (N01–N04);
+- Transformation: (N05–N08);
+- Integration: (N09–N12);
+- fixed reciprocal diameters: (01↔07, 02↔08, 03↔09, 04↔10, 05↔11, 06↔12).
+
+A complete dossier requires substantially more than thirteen labels or equations: placement and pair proofs, operator definitions, provenance, population comparison, verification and an explicit admission decision are required.
+
+## Experimental status
+
+The repository ecosystem contains both current governed work and older exploratory artifacts. Historical repositories are being preserved rather than silently rewritten, while their claims are being separated into:
+1. established/background mathematics or science;
+2. executable mechanisms;
+3. testable hypotheses;
+4. symbolic/creative constructs;
+5. unsupported historical claims.
+
+**Legacy does not mean canonical. Executable does not mean validated. Internal consistency does not establish external-world truth.**
+
+## Public legacy research
+
+Several public repositories document earlier stages of the research. They are useful as provenance and reconstruction material, but should not be read as independent validated theories merely because they are separate repositories.
+
+- **SOUL-SHELL-AGENT** — preserved FPVF/Soul-Shell recursive-state research; candidate/reconstruction status.
+- **Memory-Water-Bridge-Wheel** — historical water-memory proposal reframed toward experimentally testable iontronic state dynamics.
+- **Token-Recursion-Engine** — reconstructed as provenance-aware layered retrieval/runtime research.
+- **Void-Node-Reversal-Wheel-** — reconstructed into typed reset/restore/cancel/delete/hold/preinitialization semantics.
+- **Ontological-Feedback-Wheel** — reconstructed as a feedback-weighted state-adaptation candidate with explicit stability obligations.
+- **CONSCIOUSNESS-AGENT** — historical implementation sibling of the FPVF/Soul-Shell family; not evidence of consciousness and not a second independent theory.
+
+## Research discipline
+
+LightMathematics uses explicit status boundaries:
+- no numerical metric without qualified inputs;
+- no canonical admission while required gates remain open;
+- no empirical claim from symbolic equations alone;
+- no novelty claim without appropriate prior-art/literature review;
+- no projection gains authority merely by being rendered or deployed;
+- unresolved obligations remain visible until evidence closes them.
+
+## Direction
+
+The long-range program investigates population-scale Semantic Sigma networks, governed runtime projections, typed relations between objects, information-loss/recoverability, dependency-relative semantic closure, and reproducible benchmarks for whether structured populations actually improve reasoning or retrieval.
+
+The project is therefore best understood as **experimental semantic infrastructure with mathematical governance**, not as a completed theory of intelligence or nature.
+
+## Historical profile
+
+The earlier public profile is preserved at [docs/LEGACY_PROFILE_README_2025.md](docs/LEGACY_PROFILE_README_2025.md) so the development of the project remains auditable.
+
+## Collaboration
+
+Research collaboration is welcome around formalization, mathematical verification, software/runtime architecture, benchmark design, provenance, semantic networks, scientific testing and independent critique. GitHub issues/discussions may be used where enabled.
